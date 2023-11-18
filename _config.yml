@@ -3,7 +3,7 @@ title: Gabrielle Castilho
 email: gabriellecastilho@gmail.com
 url: gabriellecastilho.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+keywords: "data analyst, data scientist, data science, portifolio, gabrielle castilho, analytics engineer, data engineer"
 skills: "Data Analyst - Data Scientist - Analytics Engineer"
 meta_author: Castilho Gabrielle
 
@@ -17,7 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+#contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
